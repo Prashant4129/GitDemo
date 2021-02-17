@@ -23,5 +23,10 @@ public class restapiTest {
 	{
 		System.out.println("createTwitter");
 	}
+	@Test
+	public void helloTwitter()
+	{
+		System.out.println("helloTwitter");
+	}
 
 }
