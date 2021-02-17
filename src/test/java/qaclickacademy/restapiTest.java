@@ -18,5 +18,10 @@ public class restapiTest {
 	{
 		System.out.println("deleteTwitter");
 	}
+	@Test
+	public void createTwitter()
+	{
+		System.out.println("createTwitter");
+	}
 
 }
