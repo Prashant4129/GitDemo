@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="124" started-at="2021-01-30T06:12:31Z" finished-at="2021-01-30T06:12:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="124" started-at="2021-01-30T06:12:31Z" finished-at="2021-01-30T06:12:31Z">
+      <class name="qaclickacademy.seleniumjavaTest">
+        <test-method status="PASS" signature="browserautomation()[pri:0, instance:qaclickacademy.seleniumjavaTest@4de8b406]" name="browserautomation" duration-ms="2" started-at="2021-01-30T06:12:31Z" finished-at="2021-01-30T06:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomation -->
+        <test-method status="PASS" signature="elementautomation()[pri:0, instance:qaclickacademy.seleniumjavaTest@4de8b406]" name="elementautomation" duration-ms="2" started-at="2021-01-30T06:12:31Z" finished-at="2021-01-30T06:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementautomation -->
+      </class> <!-- qaclickacademy.seleniumjavaTest -->
+      <class name="qaclickacademy.restapiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.restapiTest@6a2bcfcb]" name="deleteTwitter" duration-ms="39" started-at="2021-01-30T06:12:31Z" finished-at="2021-01-30T06:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- qaclickacademy.restapiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
